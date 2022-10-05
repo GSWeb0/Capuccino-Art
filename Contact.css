@@ -1,0 +1,139 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+
+.bloc-1{
+    margin: 12px;
+    text-align: center;
+    font-size:medium;
+    
+    
+    
+}
+
+.bloc-2{
+    font-size: medium;
+    margin-right: 12px;
+  
+   
+  
+    
+}
+
+.capufin{
+    margin-right: 12px;
+    font-size: medium;
+}
+
+
+
+
+
+
+
+.nav-liste {
+    display: flex;
+    justify-content: space-evenly;
+  
+    
+    
+}
+
+.nav-item{
+    padding: 2rem;
+    font-weight:lighter;
+    font-size: 1.5rem;
+    
+}
+
+.nav-item a{
+    color:gray;
+    font-size: 2.5rem;
+    font-family: "Myriad Pro";
+}
+
+
+a:hover{
+   
+    background-color: gray;
+    color: white;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+
+.img-contact{
+    padding: 14px 16px;
+    margin-bottom: 130px;
+    margin-top: 60px;
+   margin-left: 300px;
+   
+
+}
+
+.contact{
+    background-color:  #303030; 
+    width: 520px;
+    height: 320px;
+    position: absolute;
+    left: 800px;
+    top: 400px;
+    font-size: 1.5rem;
+    text-align: center;
+    border-spacing: 5px 1rem;
+
+    
+}
+
+
+
+.footer {
+    background-color:gray;
+    color: white;
+}
+
+.titre-sectionfooter{
+    font-family:"Allura";
+padding: 17px 16px;
+margin-left: 25px;
+font-size: 3rem;
+
+
+}
+
+.liste-bloc{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+
+.bloc-1{
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.bloc-2{
+  text-align: center;
+  font-size: 1.5rem;
+  
+}
+
+p{
+    font-size: 1.5rem;
+
+}
+
+
+
+
+
+

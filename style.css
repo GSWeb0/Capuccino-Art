@@ -1,0 +1,61 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+    
+}
+
+
+body{
+    background-image: url(img/Bienvenue.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Myriad Pro";
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    color: #303030;
+    font-size: 4rem; 
+    font-weight:lighter;
+
+    
+}
+
+
+
+
+
+.nav-item{
+    padding: 2rem;
+    font-weight:lighter;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 60px;
+   
+    
+}
+
+.nav-item a{
+    color:#303030;
+    font-size: 2rem;
+
+   
+}
+
+a:hover{
+    background-color:grey;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: white;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    transition: 0.5s;
+    opacity: 0.8;
+}
